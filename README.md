@@ -78,5 +78,4 @@ To keep the bot online permanently, you'll need to host it on a server or a host
 
 ## License
 
-*(Specify your chosen license here, e.g., "This project is licensed under the MIT License - see the LICENSE file for details.")*
-If you haven't added a `LICENSE` file yet, do that after choosing one. Example: MIT License.
+*This project is licensed under the MIT License - see the LICENSE file for details.*
